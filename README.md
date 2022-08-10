@@ -1,4 +1,4 @@
-# WatersortRepo
+# WatersortRepo Development
 Watersort game created in Java 
 
 Problem solving approach:
